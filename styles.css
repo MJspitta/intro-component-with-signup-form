@@ -141,7 +141,6 @@ a {
   text-align: right;
   font-style: italic;
   margin-top: 0.3rem;
-  display: none;
 }
 
 @media screen and (max-width: 625px) {
